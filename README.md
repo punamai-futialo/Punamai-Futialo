@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Punamai Futialo 👋
 
-<!--
-**punamai-futialo/Punamai-Futialo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Systems Technologist | Cybersecurity Professional in Training
 
-Here are some ideas to get you started:
+I bring approximately 7 years of technical experience supporting mission-critical public safety systems, including Windows and Linux server administration, software upgrades, patch management, SQL troubleshooting, and incident resolution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing CompTIA Security+ (SY0-701) while developing hands-on cybersecurity skills through practical home labs and security projects.
+
+## Technical Skills
+
+- **Operating Systems:** Windows Server, Red Hat Enterprise Linux
+- **Infrastructure:** Server upgrades, patch management, system troubleshooting
+- **Tools:** ServiceNow, Jira, BeyondTrust, Microsoft SQL Server
+- **Security:** NIST cybersecurity framework studies, security controls, risk assessment fundamentals
+- **Currently Learning:** Security+, vulnerability management, SIEM, GRC
+
+## Cybersecurity Projects
+
+I'm building a portfolio of hands-on cybersecurity projects, including:
+
+- Linux Security Hardening Lab
+- Windows Security Monitoring
+- Vulnerability Management Lab
+- SOC Analyst SIEM Lab
+- NIST GRC Risk Assessment
+- Network Traffic Analysis
+
+Projects will be linked here as they are completed.
+
+## Current Goals
+
+- Earn CompTIA Security+ certification
+- Develop hands-on cybersecurity experience
+- Transition into cybersecurity, GRC, or vulnerability management
+
+## Connect With Me
+
+[LinkedIn](https://linkedin.com/in/punamai-futialo-685samoa)
